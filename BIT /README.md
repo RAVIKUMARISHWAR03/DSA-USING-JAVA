@@ -1,1 +1,2 @@
 #BIT MANUPLATION
+  
